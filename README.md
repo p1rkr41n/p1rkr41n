@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @p1rkr41n (l1ghtg3m)
-- 👀 I’m interested in python.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on a project with everyone.
+- 👋 Hi, I’m l1ghtg3m
 - 📫 How to reach me: http://m.me/103868034523807
 
 <!---
